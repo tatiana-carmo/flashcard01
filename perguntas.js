@@ -1,7 +1,7 @@
 criaCartao(
-    'Futebol',
-    'Qual é o maior time do Brasil?',
-    'São Paulo'
+    'Futevôlei',
+    'Qual é o fundamento do futevôlei',
+    'Saque, recepção, passe, ataque e defesa'
 )
 
 criaCartao(
