@@ -5,19 +5,19 @@ criaCartao(
 )
 
 criaCartao(
-    'astronomia',
-    'Qual é o nome do nosso satélite natural??',
-    'A Lua'
+    'Regra',
+    'Uma regra do futevôlei?',
+    'Cada equipe tem no máximo 3 toques na bola antes de passar para o lado oposto'
 )
 
 criaCartao(
-    'Química',
-    'Qual é o símbolo químico da água?',
-    ' H₂O.'
+    'Objetivo',
+    'Qual é o principal objetivo do futevôlei?',
+    'Derrubar a bola na quadra adversária'
 )
 
 criaCartao(
-    'História',
-    'Em que ano o Brasil proclamou sua independência?',
-    '1822'
+    'Benefícios',
+    'Quais são os benefícios do futevôlei?',
+    'Melhora do condicionamento físico, o fortalecimento muscular e a queima de calorias'
 )
